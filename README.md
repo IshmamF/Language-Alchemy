@@ -15,5 +15,8 @@ Accessibility: Make content available to a wider audience by supporting multiple
 ## Usage
 Visit the YouTube Translator Web App website.
 Input the YouTube video URL.
-Select the target languages for translation.
+Select the target language(s) for translation.
 Click "Translate" to generate the translated video.
+
+## Next Steps
+We were additionally hoping to integrate both a summarizer and a tone detector for the video in our web application. The code has been prepared and tested / proven to work; however we ran out of time in this 24 hour hackathon to fully incorporate it with our front end. 
